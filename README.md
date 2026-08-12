@@ -3,8 +3,8 @@
 Pipeline Spark → MongoDB pour l'analyse d'avis produits (dataset Amazon Fine Food Reviews).
 
 ## Contenu
-- `examBigData_clean.ipynb` — notebook principal (nettoyage, indicateurs, écriture MongoDB)
-- `rapport.pdf` — rapport du projet
+- `examBigData.ipynb` — notebook principal (nettoyage, indicateurs, écriture MongoDB)
+- `Rapport_BigData.pdf` — rapport du projet
 
 ## Prérequis
 - Python 3.12, PySpark 4.2.0, pymongo
