@@ -1,0 +1,14 @@
+# Données volumineuses — ne pas versionner
+*.csv
+*.json
+
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
